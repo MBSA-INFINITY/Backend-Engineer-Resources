@@ -1,2 +1,4 @@
-# Backend-Engineer-Resources
-This repo will contain great resources for backend tech concepts.
+# Tech Concepts
+
+## Flask
+- [How flask work under the hood?](https://testdriven.io/blog/flask-contexts-advanced/)
